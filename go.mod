@@ -1,4 +1,4 @@
-module github.com/fibreactive/nlscrp
+module github.com/0xdod/goscrapenl
 
 go 1.14
 
